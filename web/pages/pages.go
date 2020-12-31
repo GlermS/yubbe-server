@@ -1,8 +1,8 @@
 package pages
 
 import (
+	"YubbeServer/yubbe-server/authentication"
 	"encoding/gob"
-	"yubbe-server/authentication"
 
 	"github.com/gorilla/securecookie"
 	"github.com/gorilla/sessions"

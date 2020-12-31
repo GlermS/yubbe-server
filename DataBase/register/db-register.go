@@ -1,8 +1,8 @@
 package register
 
 import (
-	"yubbe-server/DataBase/DB"
-	"yubbe-server/DataBase/interfaces"
+	"YubbeServer/yubbe-server/DataBase/DB"
+	"YubbeServer/yubbe-server/DataBase/interfaces"
 
 	_ "github.com/go-sql-driver/mysql"
 )

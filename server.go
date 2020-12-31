@@ -1,10 +1,10 @@
 package main
 
 import (
+	"YubbeServer/yubbe-server/web/router"
 	"fmt"
 	"log"
 	"net/http"
-	"yubbe-server/web/router"
 
 	"github.com/spf13/viper"
 )
@@ -21,7 +21,7 @@ func main() {
 	router.ApplyRoutes()
 
 	fmt.Println("Server running")
-	log.Fatal(http.ListenAndServe(":3000", nil))
+	log.Fatal(http.ListenAndServe(":80", nil))
 }
 
 func loadEnvVars() error {

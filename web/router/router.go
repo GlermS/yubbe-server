@@ -1,8 +1,8 @@
 package router
 
 import (
+	"YubbeServer/yubbe-server/web/pages"
 	"net/http"
-	"yubbe-server/web/pages"
 )
 
 type Router struct {

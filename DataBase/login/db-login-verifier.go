@@ -1,9 +1,9 @@
 package login
 
 import (
+	"YubbeServer/yubbe-server/DataBase/DB"
+	"YubbeServer/yubbe-server/DataBase/interfaces"
 	"log"
-	"yubbe-server/DataBase/DB"
-	"yubbe-server/DataBase/interfaces"
 
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/spf13/viper"

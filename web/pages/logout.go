@@ -1,8 +1,8 @@
 package pages
 
 import (
+	"YubbeServer/yubbe-server/authentication"
 	"net/http"
-	"yubbe-server/authentication"
 )
 
 func Logout(w http.ResponseWriter, r *http.Request) {

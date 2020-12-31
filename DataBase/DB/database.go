@@ -1,10 +1,10 @@
 package DB
 
 import (
+	"YubbeServer/yubbe-server/DataBase/interfaces"
 	"database/sql"
 	"errors"
 	"log"
-	"yubbe-server/DataBase/interfaces"
 
 	"golang.org/x/crypto/bcrypt"
 )

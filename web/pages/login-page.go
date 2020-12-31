@@ -1,12 +1,12 @@
 package pages
 
 import (
+	"YubbeServer/yubbe-server/DataBase/DB"
+	"YubbeServer/yubbe-server/DataBase/login"
+	"YubbeServer/yubbe-server/authentication"
 	"fmt"
 	"log"
 	"net/http"
-	"yubbe-server/DataBase/DB"
-	"yubbe-server/DataBase/login"
-	"yubbe-server/authentication"
 )
 
 func LoginPage(w http.ResponseWriter, r *http.Request) {

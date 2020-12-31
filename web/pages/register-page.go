@@ -1,12 +1,12 @@
 package pages
 
 import (
+	"YubbeServer/yubbe-server/DataBase/DB"
+	"YubbeServer/yubbe-server/DataBase/register"
+	"YubbeServer/yubbe-server/authentication"
 	"fmt"
 	"log"
 	"net/http"
-	"yubbe-server/DataBase/DB"
-	"yubbe-server/DataBase/register"
-	"yubbe-server/authentication"
 )
 
 func RegisterPage(w http.ResponseWriter, r *http.Request) {

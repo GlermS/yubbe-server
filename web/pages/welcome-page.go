@@ -1,9 +1,9 @@
 package pages
 
 import (
+	"YubbeServer/yubbe-server/authentication"
 	"log"
 	"net/http"
-	"yubbe-server/authentication"
 )
 
 func WelcomePage(w http.ResponseWriter, r *http.Request) {
