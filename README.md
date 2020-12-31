@@ -2,7 +2,7 @@
 
 ## Indice
 
-- [Histórias do usuário](###histórias do usuário)
+- [Histórias do usuário](https://github.com/GlermS/yubbe-server#historias-do-usuario)
 
 
 
