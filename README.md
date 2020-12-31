@@ -2,9 +2,7 @@
 
 ## Indice
 
-- [Histórias do usuário](###historias-do-usuario)
-
-
+- [Histórias do usuário](#hist%C3%B3rias-do-usu%C3%A1rio)
 
 ![alt text](https://github.com/GlermS/yubbe-server/blob/master/readme-files/Yubbe%402x.png "Logo Title Text 1")
 
