@@ -109,7 +109,7 @@ Links das documentações dos pacotes utilizados.
 
 
 
-## Inciando o servidor
+## Iniciando o servidor
 
 Comando do terminal para iniciar o servidor
 
