@@ -1,4 +1,4 @@
-# yubbe-server
+# Yubbe Server
 
 
 
@@ -8,7 +8,7 @@
 
 Links das documentações dos pacotes utilizados.
 
-## Frontend
+### Frontend
 
 - Framework -  React
   - https://pt-br.reactjs.org/docs/getting-started.html
@@ -28,4 +28,10 @@ Links das documentações dos pacotes utilizados.
 ### Banco de Dados
 
 - Mysql
+
+## Inciando o servidor
+
+``` go run server.go```
+
+
 
