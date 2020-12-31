@@ -9,9 +9,15 @@
 
 
 
+## Grafos de dependência
+
+[Voltar para o indice](#indice)
+
 ![alt text](https://github.com/GlermS/yubbe-server/blob/master/readme-files/Yubbe%402x.png "Logo Title Text 1")
 
 ### Histórias do usuário
+
+[Voltar para o indice](#indice)
 
 - **Agendamento de chamadas**
   1. Os usuários logam na plataforma.
@@ -81,6 +87,8 @@
   8. O usuário recebe um retorno confirmando o cancelamento da chamada ou uma falha por uma devida causa.
 
  ## Links
+
+[Voltar para o indice](#indice)
 
 Links das documentações dos pacotes utilizados.
 
