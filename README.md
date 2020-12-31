@@ -2,6 +2,7 @@
 
 ## Indice
 
+- [Grafos de dependência](#grafos-de-dependência)
 - [Histórias do usuário](#hist%C3%B3rias-do-usu%C3%A1rio)
 - [Links das documentações](#links)
 
@@ -14,6 +15,8 @@
 [Voltar para o indice](#indice)
 
 ![alt text](https://github.com/GlermS/yubbe-server/blob/master/readme-files/Yubbe%402x.png "Logo Title Text 1")
+
+
 
 ### Histórias do usuário
 
