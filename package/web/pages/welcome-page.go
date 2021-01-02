@@ -23,5 +23,5 @@ func WelcomePage(w http.ResponseWriter, r *http.Request) {
 		http.Redirect(w, r, "/login", 301)
 	}
 
-	http.ServeFile(w, r, "./web/pages/welcome-page/static/welcome.html")
+	http.ServeFile(w, r, "./package/web/pages/welcome-page/static/welcome.html")
 }

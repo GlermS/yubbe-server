@@ -25,7 +25,7 @@ func LoginPage(w http.ResponseWriter, r *http.Request) {
 
 	switch r.Method {
 	case "GET":
-		http.ServeFile(w, r, "./web/pages/login-page/static/form.html")
+		http.ServeFile(w, r, "./package/web/pages/login-page/static/form.html")
 	case "POST":
 		// Call ParseForm() to parse the raw query and update r.PostForm and r.Form.
 		if err := r.ParseForm(); err != nil {

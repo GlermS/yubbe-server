@@ -12,7 +12,7 @@ import (
 func RegisterPage(w http.ResponseWriter, r *http.Request) {
 	switch r.Method {
 	case "GET":
-		http.ServeFile(w, r, "./web/pages/register-page/static/form.html")
+		http.ServeFile(w, r, "./package/web/pages/register-page/static/form.html")
 	case "POST":
 		session := &authentication.Session{store}
 		// Call ParseForm() to parse the raw query and update r.PostForm and r.Form.
