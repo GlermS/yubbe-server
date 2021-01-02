@@ -1,7 +1,7 @@
 package DB
 
 import (
-	"YubbeServer/yubbe-server/DataBase/interfaces"
+	"YubbeServer/yubbe-server/package/database/interfaces"
 	"database/sql"
 	"errors"
 	"log"

@@ -1,9 +1,9 @@
 package pages
 
 import (
-	"YubbeServer/yubbe-server/DataBase/DB"
-	"YubbeServer/yubbe-server/DataBase/login"
-	"YubbeServer/yubbe-server/authentication"
+	"YubbeServer/yubbe-server/package/authentication"
+	"YubbeServer/yubbe-server/package/database/DB"
+	"YubbeServer/yubbe-server/package/database/login"
 	"fmt"
 	"log"
 	"net/http"

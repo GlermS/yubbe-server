@@ -1,8 +1,8 @@
 package login
 
 import (
-	"YubbeServer/yubbe-server/DataBase/DB"
-	"YubbeServer/yubbe-server/DataBase/interfaces"
+	"YubbeServer/yubbe-server/package/database/DB"
+	"YubbeServer/yubbe-server/package/database/interfaces"
 	"log"
 
 	_ "github.com/go-sql-driver/mysql"

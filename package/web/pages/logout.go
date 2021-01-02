@@ -1,7 +1,7 @@
 package pages
 
 import (
-	"YubbeServer/yubbe-server/authentication"
+	"YubbeServer/yubbe-server/package/authentication"
 	"net/http"
 )
 

@@ -1,7 +1,7 @@
 package router
 
 import (
-	"YubbeServer/yubbe-server/web/pages"
+	"YubbeServer/yubbe-server/package/web/pages"
 	"net/http"
 )
 

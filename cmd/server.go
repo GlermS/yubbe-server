@@ -1,7 +1,7 @@
 package main
 
 import (
-	"YubbeServer/yubbe-server/web/router"
+	"YubbeServer/yubbe-server/package/web/router"
 	"fmt"
 	"log"
 	"net/http"
